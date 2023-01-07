@@ -1,1 +1,1 @@
-# vjr-wp-nuxt
+# Nuxt & Vue & WP & Tailwind boilerplate.
